@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/kevinah95/go-journey/src/menu"
+	"github.com/kevinah95/go-journey/pkg/menu"
 	"os"
 	"strings"
 )
